@@ -1,5 +1,5 @@
 <p align="left">
-#👋 Hello there, I'm Shreyansh Seth!
+##👋 Hello there, I'm Shreyansh Seth!
 
 Welcome to my GitHub! I'm a curious engineer, a code tinkerer, and someone who enjoys solving real-world problems using technology.
 
