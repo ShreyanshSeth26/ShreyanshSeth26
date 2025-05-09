@@ -29,7 +29,7 @@ Thanks for dropping by!
 
 <br/>
 
-<img alt="Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShreyanshSeth26&theme=dracula" />
+<img src="https://github-profile-trophy.vercel.app/?username=ShreyanshSeth26&theme=dracula&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 <img alt="Most Used Language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShreyanshSeth26&theme=dracula" />
 
 <br/>
