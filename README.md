@@ -23,7 +23,7 @@ Thanks for dropping by!
 
 ###
 
-<img align="left" height="200" src="https://i.postimg.cc/nh8C4kn8/9z7v857a9wn71.webp"  />
+<img align="center" height="200" src="https://i.postimg.cc/nh8C4kn8/9z7v857a9wn71.webp"  />
 
 ###
 <h3 align="center">GitHub Stats</h3>
