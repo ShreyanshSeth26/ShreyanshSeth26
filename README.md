@@ -1,4 +1,4 @@
-<p align="left"># 👋 Hello there, I'm Shreyansh Seth!
+<p align="left">👋 Hello there, I'm Shreyansh Seth!
 
 Welcome to my GitHub! I'm a curious engineer, a code tinkerer, and someone who enjoys solving real-world problems using technology.
 
@@ -19,6 +19,7 @@ _“Code is poetry, circuits are rhythm, and learning is the dance in between.�
 
 Thanks for dropping by!
 
+---
 </p>
 
 ###
