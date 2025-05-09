@@ -9,8 +9,8 @@ Welcome to my GitHub! I'm a curious engineer, a code tinkerer, and someone who e
 
 ## 📫 Reach Out
 Want to collaborate, or just say hi?
-- 📧 Email: [shreyanshseth212@gmail.com]
-- 🌐 Portfolio: []
+- 📧 Email: shreyanshseth212@gmail.com
+- 🌐 Portfolio: 
 - 📄 Resume: Available on request
 
 ---
