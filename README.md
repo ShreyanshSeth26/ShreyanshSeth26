@@ -21,31 +21,23 @@ Thanks for dropping by!
 
 ---
 
-## 🎯 GitHub Stats + Vibe
+<div align="center">
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      
-  <h3 align="center">📊 My GitHub Stats</h3>
-  <p align="center">
-    <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShreyanshSeth26&theme=dracula">
-  </p>
-  <p align="center">
-    <img alt="Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShreyanshSeth26&theme=dracula">
-    <img alt="Most Used Language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShreyanshSeth26&theme=dracula">
-  </p>
-  <p align="center">
-    <img alt="General Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShreyanshSeth26&theme=dracula">
-    <img alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShreyanshSeth26&theme=dracula">
-  </p>
+## 📊 My GitHub Stats
 
-    </td>
-    <td valign="top" width="40%">
-      <img src="https://i.postimg.cc/nh8C4kn8/9z7v857a9wn71.webp" width="100%" />
-    </td>
-  </tr>
-</table>
+<img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShreyanshSeth26&theme=dracula" />
+
+<br/>
+
+<img alt="Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShreyanshSeth26&theme=dracula" />
+<img alt="Most Used Language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShreyanshSeth26&theme=dracula" />
+
+<br/>
+
+<img alt="General Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShreyanshSeth26&theme=dracula" />
+<img alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShreyanshSeth26&theme=dracula" />
+
+</div>
 
 ---
 
@@ -74,7 +66,7 @@ Thanks for dropping by!
 
 ---
 
-## 🎮 Contribution Game Mode: Pacman
+## 🎮 Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShreyanshSeth26/ShreyanshSeth26/output/pacman-contribution-graph-dark.svg">
