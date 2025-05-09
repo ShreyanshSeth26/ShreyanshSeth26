@@ -1,4 +1,34 @@
+## **👋 Hello there, I'm Shreyansh Seth!**
+
+Welcome to my GitHub! I'm a curious engineer, a code tinkerer, and someone who enjoys solving real-world problems using technology — whether it’s with Python, embedded circuits, or machine learning models.
+
 ## 🧠 About Me
+- 🎓 I'm currently pursuing my undergraduate degree in [Your Branch Here] at [Your Institute Name].
+- 💻 I work on signal processing, machine learning, embedded systems, and love diving into interesting interdisciplinary projects.
+- 📚 I've worked on projects ranging from classifying Russian wildlife with CNNs, to temperature-sensing circuits with LM35, to building NLP pipelines.
+- ✨ I'm actively involved in mentoring initiatives, including teaching underprivileged children with the Literate Bachpan Foundation.
+
+## 🚀 Tech Stack
+- **Languages:** Python, C/C++, JavaScript (sometimes)
+- **Frameworks & Tools:** PyTorch, NumPy, Scikit-learn, OpenCV, Matplotlib, Git, Linux
+- **Domains:** Signal Processing, Computer Vision, NLP, Circuits & Systems
+
+## 🛠️ Some Projects You’ll Find Here
+- 📷 Image classification using custom ConvNets and fine-tuned ResNet-18
+- 🔊 AM signal modulation and synchronous demodulation using Python
+- 📈 PCA and t-SNE visualizations for high-dimensional data
+- 🧪 Numerical methods (Finite Difference, Poisson Solver) in physics simulations
+- 🧠 Machine learning models built from scratch with math-first approaches
+
+## 🧭 What I’m Up To
+Currently exploring:
+- One-shot segmentation using meta-learning techniques
+- Efficient low-cost hardware interfaces
+- Publishing my first academic review paper
+
+## 📫 Reach Out
+Want to collaborate, or just say hi?
+- 📧 Email:
 
 Welcome to my GitHub! I'm a curious engineer, a code tinkerer, and someone who enjoys solving real-world problems using technology.
 
