@@ -18,21 +18,7 @@ _“Code is poetry, circuits are rhythm, and learning is the dance in between.�
 Thanks for dropping by!
 
 <div align="center">
-
-## 📊 My GitHub Stats
-
-<img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShreyanshSeth26&theme=dracula" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ShreyanshSeth26&theme=dracula&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-<img alt="Most Used Language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShreyanshSeth26&theme=dracula" />
-
-<br/>
-
-<img alt="General Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShreyanshSeth26&theme=dracula" />
-<img alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShreyanshSeth26&theme=dracula" />
-
+  
 ## 🛠️ Languages & Tools
 
 <div align="center">
@@ -55,14 +41,6 @@ Thanks for dropping by!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" />
 </div>
-
-## 🎮 Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShreyanshSeth26/ShreyanshSeth26/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShreyanshSeth26/ShreyanshSeth26/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ShreyanshSeth26/ShreyanshSeth26/output/pacman-contribution-graph.svg">
-</picture>
 
 ## 🔗 Social Links
 
@@ -89,4 +67,27 @@ Thanks for dropping by!
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo" />
   </a>
 </div>
+
+## 📊 My GitHub Stats
+
+<img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShreyanshSeth26&theme=dracula" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ShreyanshSeth26&theme=dracula&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+<img alt="Most Used Language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShreyanshSeth26&theme=dracula" />
+
+<br/>
+
+<img alt="General Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShreyanshSeth26&theme=dracula" />
+<img alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShreyanshSeth26&theme=dracula" />
+
+## 🎮 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShreyanshSeth26/ShreyanshSeth26/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShreyanshSeth26/ShreyanshSeth26/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ShreyanshSeth26/ShreyanshSeth26/output/pacman-contribution-graph.svg">
+</picture>
+
 </div>
