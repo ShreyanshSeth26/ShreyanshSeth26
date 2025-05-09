@@ -36,7 +36,7 @@ Thanks for dropping by!
 </p>
 <p align="center">
     <img alt="User Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShreyanshSeth26&theme=dracula">
-    <img alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=weebsuryansh&theme=dracula">
+    <img alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShreyanshSeth26&theme=dracula">
 </p>
 
 ###
