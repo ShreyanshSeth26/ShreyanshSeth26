@@ -26,6 +26,20 @@ Thanks for dropping by!
 <img align="left" height="200" src="https://i.postimg.cc/nh8C4kn8/9z7v857a9wn71.webp"  />
 
 ###
+<h3 align="center">GitHub Stats</h3>
+<p align="center">
+    <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weebsuryansh&theme=dracula">
+</p>
+<p align="center">
+    <img alt="Top Languages by Repositories" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=weebsuryansh&theme=dracula">
+    <img alt="Most Commit Language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=weebsuryansh&theme=dracula">
+</p>
+<p align="center">
+    <img alt="User Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=weebsuryansh&theme=dracula">
+    <img alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=weebsuryansh&theme=dracula">
+</p>
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShreyanshSeth26&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
