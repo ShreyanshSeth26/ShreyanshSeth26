@@ -13,13 +13,9 @@ Want to collaborate, or just say hi?
 - 🌐 Portfolio: *Coming Soon*
 - 📄 Resume: *Available on request*
 
----
-
 _“Code is poetry, circuits are rhythm, and learning is the dance in between.”_
 
 Thanks for dropping by!
-
----
 
 <div align="center">
 
@@ -38,8 +34,6 @@ Thanks for dropping by!
 <img alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShreyanshSeth26&theme=dracula" />
 
 </div>
-
----
 
 ## 🛠️ Languages & Tools
 
@@ -64,8 +58,6 @@ Thanks for dropping by!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" />
 </div>
 
----
-
 ## 🎮 Contributions
 
 <picture>
@@ -73,8 +65,6 @@ Thanks for dropping by!
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShreyanshSeth26/ShreyanshSeth26/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ShreyanshSeth26/ShreyanshSeth26/output/pacman-contribution-graph.svg">
 </picture>
-
----
 
 ## 🔗 Social Links
 
