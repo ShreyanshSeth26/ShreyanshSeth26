@@ -3,7 +3,7 @@
 Welcome to my GitHub! I'm a curious engineer, a code tinkerer, and someone who enjoys solving real-world problems using technology.
 
 ## 🧠 About Me
-- 🎓 I'm currently pursuing my undergraduate degree in [ECE] at [Indraprastha Institute of Information Technology Delhi].
+- 🎓 I'm currently pursuing my undergraduate degree in ECE at Indraprastha Institute of Information Technology Delhi.
 - 💻 I work on machine learning, Web Dev and love diving into interesting interdisciplinary projects.
 - ✨ I'm actively involved in mentoring initiatives, including teaching underprivileged children with the Literate Bachpan Foundation.
 
