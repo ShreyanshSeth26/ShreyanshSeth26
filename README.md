@@ -1,4 +1,3 @@
-<div align="center">
 ## **👋 Hello there, I'm Shreyansh Seth!**
 
 Welcome to my GitHub! I'm a curious engineer, a code tinkerer, and someone who enjoys solving real-world problems using technology.
@@ -18,6 +17,8 @@ _“Code is poetry, circuits are rhythm, and learning is the dance in between.�
 
 Thanks for dropping by!
 
+<div align="center">
+
 ## 📊 My GitHub Stats
 
 <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShreyanshSeth26&theme=dracula" />
@@ -31,7 +32,7 @@ Thanks for dropping by!
 
 <img alt="General Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShreyanshSeth26&theme=dracula" />
 <img alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShreyanshSeth26&theme=dracula" />
-
+<br/>
 ## 🛠️ Languages & Tools
 
 <div align="center">
@@ -54,7 +55,7 @@ Thanks for dropping by!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" />
 </div>
-
+<br/>
 ## 🎮 Contributions
 
 <picture>
@@ -62,7 +63,7 @@ Thanks for dropping by!
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShreyanshSeth26/ShreyanshSeth26/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ShreyanshSeth26/ShreyanshSeth26/output/pacman-contribution-graph.svg">
 </picture>
-
+<br/>
 ## 🔗 Social Links
 
 <div align="center">
