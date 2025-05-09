@@ -33,8 +33,6 @@ Thanks for dropping by!
 <img alt="General Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShreyanshSeth26&theme=dracula" />
 <img alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShreyanshSeth26&theme=dracula" />
 
-</div>
-
 ## 🛠️ Languages & Tools
 
 <div align="center">
@@ -90,4 +88,5 @@ Thanks for dropping by!
   <a href="https://www.twitch.tv/shadowxd2609" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo" />
   </a>
+</div>
 </div>
