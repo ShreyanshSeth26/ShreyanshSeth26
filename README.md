@@ -42,7 +42,7 @@ _“Code is poetry, circuits are rhythm, and learning is the dance in between.�
 
 ## 🔗 Social Links
 
-<div align="center">
+<div align="center" style="margin-bottom: 1.5em;">
   <a href="https://www.linkedin.com/in/shreyansh-seth-0b430a307/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
@@ -64,7 +64,7 @@ _“Code is poetry, circuits are rhythm, and learning is the dance in between.�
 </div>
 
 <details>
-  <summary>📊 My GitHub Stats</summary>
+  <summary><strong>📊 My GitHub Stats</strong></summary>
 
   <br/>
 
