@@ -1,4 +1,4 @@
-## **👋 Hello there, I'm Shreyansh Seth!**
+## **👋 Hello There, I'm Shreyansh Seth!**
 
 Welcome to my GitHub! I'm a curious engineer, a code tinkerer, and someone who enjoys solving real-world problems using technology.
 
@@ -14,8 +14,6 @@ Want to collaborate, or just say hi?
 - 📄 Resume: *Available on request*
 
 _“Code is poetry, circuits are rhythm, and learning is the dance in between.”_
-
-Thanks for dropping by!
 
 <div align="center">
   
@@ -65,19 +63,24 @@ Thanks for dropping by!
   </a>
 </div>
 
-## 📊 My GitHub Stats
+<details>
+  <summary>📊 My GitHub Stats</summary>
 
-<img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShreyanshSeth26&theme=dracula" />
+  <br/>
 
-<br/>
+  <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShreyanshSeth26&theme=dracula" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=ShreyanshSeth26&theme=dracula&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-<img alt="Most Used Language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShreyanshSeth26&theme=dracula" />
+  <br/>
 
-<br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ShreyanshSeth26&theme=dracula&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  <img alt="Most Used Language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShreyanshSeth26&theme=dracula" />
 
-<img alt="General Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShreyanshSeth26&theme=dracula" />
-<img alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShreyanshSeth26&theme=dracula" />
+  <br/>
+
+  <img alt="General Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShreyanshSeth26&theme=dracula" />
+  <img alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShreyanshSeth26&theme=dracula" />
+
+</details>
 
 ## 🎮 Contributions
 
@@ -86,5 +89,3 @@ Thanks for dropping by!
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShreyanshSeth26/ShreyanshSeth26/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ShreyanshSeth26/ShreyanshSeth26/output/pacman-contribution-graph.svg">
 </picture>
-
-</div>
