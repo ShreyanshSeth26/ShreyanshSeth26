@@ -40,6 +40,26 @@ _“Code is poetry, circuits are rhythm, and learning is the dance in between.�
 
 
 
+<br /><br />
+
+<details>
+  <summary><h2>📊 My GitHub Stats</h2></summary>
+
+  <br />
+
+  <p align="center">
+    <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShreyanshSeth26&theme=dracula" />
+  </p>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=ShreyanshSeth26&theme=dracula&no-frame=true&margin-w=10" alt="Trophies" />
+    <img alt="Most Used Language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShreyanshSeth26&theme=dracula" />
+  </p>
+  <p align="center">
+    <img alt="General Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShreyanshSeth26&theme=dracula" />
+    <img alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShreyanshSeth26&theme=dracula" />
+  </p>
+</details>
+
 ## 🔗 Social Links
 
 <div align="center">
@@ -62,34 +82,3 @@ _“Code is poetry, circuits are rhythm, and learning is the dance in between.�
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch" />
   </a>
 </div>
-
-
-<br /><br />
-
-<details>
-  <summary><h2>📊 My GitHub Stats</h2></summary>
-
-  <br />
-
-  <p align="center">
-    <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShreyanshSeth26&theme=dracula" />
-  </p>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ShreyanshSeth26&theme=dracula&no-frame=true&margin-w=10" alt="Trophies" />
-    <img alt="Most Used Language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShreyanshSeth26&theme=dracula" />
-  </p>
-  <p align="center">
-    <img alt="General Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShreyanshSeth26&theme=dracula" />
-    <img alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShreyanshSeth26&theme=dracula" />
-  </p>
-</details>
-
-
-
-## 🎮 Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShreyanshSeth26/ShreyanshSeth26/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShreyanshSeth26/ShreyanshSeth26/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ShreyanshSeth26/ShreyanshSeth26/output/pacman-contribution-graph.svg">
-</picture>
