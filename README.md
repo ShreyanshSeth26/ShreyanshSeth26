@@ -1,4 +1,4 @@
-## **👋 Hello there, I'm Shreyansh Seth!**
+## **👋 Hello There, I'm Shreyansh Seth!**
 
 Welcome to my GitHub! I'm a curious engineer, a code tinkerer, and someone who enjoys solving real-world problems using technology.
 
@@ -14,8 +14,6 @@ Want to collaborate, or just say hi?
 - 📄 Resume: *Available on request*  
 
 _“Code is poetry, circuits are rhythm, and learning is the dance in between.”_
-
----
 
 ## 🛠️ Languages & Tools
 
@@ -40,7 +38,7 @@ _“Code is poetry, circuits are rhythm, and learning is the dance in between.�
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" />
 </div>
 
----
+
 
 ## 🔗 Social Links
 
@@ -65,7 +63,7 @@ _“Code is poetry, circuits are rhythm, and learning is the dance in between.�
   </a>
 </div>
 
-<!-- add some vertical space before the stats dropdown -->
+
 <br /><br />
 
 <details>
@@ -86,7 +84,7 @@ _“Code is poetry, circuits are rhythm, and learning is the dance in between.�
   </p>
 </details>
 
----
+
 
 ## 🎮 Contributions
 
