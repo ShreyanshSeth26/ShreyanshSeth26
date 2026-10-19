@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a curious engineer, a code tinkerer, and someone who e
 ## 📫 Reach Out  
 Want to collaborate, or just say hi?  
 - 📧 Email: shreyanshseth212@gmail.com  
-- 🌐 Portfolio: *Coming Soon*  
+- 🌐 Portfolio: https://portfolio.shreyanshseth.fyi/ 
 - 📄 Resume: *Available on request*  
 
 _“Code is poetry, circuits are rhythm, and learning is the dance in between.”_
